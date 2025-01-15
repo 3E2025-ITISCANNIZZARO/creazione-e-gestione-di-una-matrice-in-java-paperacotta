@@ -19,7 +19,7 @@ public class Main {
 
       
 
-        // Stampa della matrice
+        // Stampa della matrice 
         System.out.println("Matrice:");
         // COMPLETARE IL CODICE
 
